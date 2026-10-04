@@ -125,5 +125,50 @@ label{display:block}section[id],div[id]{scroll-margin-top:105px}.scan-gif{width:
 .insight-section .symptom-panel{margin-top:14px;padding:20px;border-radius:16px;border:1px solid #dbeae4;background:#fbfefd}
 .insight-section .symptom-panel h3{margin:0 0 8px;font:800 1.18rem/1.3 Manrope,sans-serif}
 .insight-section .symptom-panel p{margin:0 0 10px}
+#gallery{display:none}
+.testimonials-section{background:linear-gradient(180deg,#f5fbf8 0,#f7faf7 100%);padding-block:40px}
+.video-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.video-block h3{margin:0 0 10px;font:800 1.28rem/1.2 Manrope,sans-serif;color:#20434a}
+.testimonial-card{background:#fff;border:1px solid #dfeee8;border-radius:18px;padding:22px;box-shadow:0 12px 26px rgba(20,63,75,.08);display:flex;flex-direction:column;justify-content:space-between;gap:14px}
+.testimonial-card p{margin:0;color:#24444b;font-weight:700}
+.testimonial-frame{width:100%;aspect-ratio:9/16;border:0;border-radius:14px;background:#e9f3ef}
+.testimonial-card .btn{align-self:flex-start}
+.video-carousel{max-width:560px}
+.video-carousel .carousel-slide{background:transparent;padding:4px 0 28px}
+.video-carousel .carousel-control{width:40px;height:40px;font-size:1.4rem}
+.video-carousel .carousel-control.prev{left:-8px}
+.video-carousel .carousel-control.next{right:-8px}
+.video-carousel .carousel-dots{bottom:8px}
+@media(max-width:920px){.video-columns{grid-template-columns:1fr}}
+@media(max-width:560px){.video-carousel .carousel-control.prev{left:8px}.video-carousel .carousel-control.next{right:8px}}
+#testimonials .video-columns{grid-template-columns:1fr;max-width:390px;margin:0 auto}
+#testimonials .video-block:nth-child(2){display:none}
+#testimonials .video-block h3{margin-bottom:6px;font-size:1.06rem}
+#testimonials .testimonial-card{padding:14px;gap:10px;border-radius:14px}
+#testimonials .testimonial-frame{aspect-ratio:4/5;max-height:330px}
+#testimonials .video-carousel .carousel-slide{padding:2px 0 20px}
+#testimonials .video-carousel .carousel-control{width:34px;height:34px;font-size:1.2rem}
+#testimonials .video-carousel .carousel-control.prev{left:6px}
+#testimonials .video-carousel .carousel-control.next{right:6px}
+#testimonials .video-carousel .carousel-dots{bottom:2px}
 .insight-section .symptom-panel ul{margin:0 0 9px;padding-left:20px;display:grid;gap:5px}
+/* Keep portrait testimonial reels fully visible in a compact carousel. */
+#testimonials.testimonials-section{padding-block:30px 34px}
+#testimonials .section-head{margin-bottom:15px}
+#testimonials .section-title{margin:6px 0;font-size:clamp(1.55rem,2.7vw,2.2rem)}
+#testimonials .section-intro{font-size:.88rem}
+#testimonials .video-columns{max-width:420px}
+#testimonials .video-block h3{display:none}
+#testimonials .video-carousel{max-width:100%;border-radius:20px}
+#testimonials .video-carousel .carousel-slide{aspect-ratio:auto;padding:0 0 25px}
+#testimonials .testimonial-card{align-items:center;gap:9px;padding:12px 14px 10px;border-radius:20px;box-shadow:0 9px 24px rgba(20,63,75,.07)}
+#testimonials .testimonial-card p{align-self:flex-start;color:#087f78;font-size:.72rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+#testimonials .testimonial-card p:before{content:'“';margin-right:5px;color:#8fba42;font-size:1rem}
+#testimonials .testimonial-frame{display:block;width:min(100%,224px);aspect-ratio:4/5;max-height:280px;margin:0 auto;border-radius:13px}
+#testimonials .testimonial-card .btn{align-self:center;min-height:34px;padding:7px 12px;font-size:.78rem}
+#testimonials .video-carousel .carousel-control{top:47%;width:32px;height:32px;border:1px solid #ffffffbb;background:#173f50;color:#fff;box-shadow:0 4px 12px #173f5040}
+#testimonials .video-carousel .carousel-control.prev{left:8px}
+#testimonials .video-carousel .carousel-control.next{right:8px}
+#testimonials .video-carousel .carousel-dots{bottom:3px;padding:5px 8px;background:#173f50a8}
+@media(max-width:560px){#testimonials.testimonials-section{padding-block:25px 29px}#testimonials .testimonial-frame{width:min(100%,205px);max-height:256px}#testimonials .video-carousel .carousel-slide{padding-bottom:24px}}
 @media(max-width:920px){.insight-grid{grid-template-columns:1fr}.insight-doctor,.insight-guide{padding:24px}}

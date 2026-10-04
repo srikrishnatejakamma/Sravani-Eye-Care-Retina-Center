@@ -76,6 +76,7 @@
     if (!track) return;
     const slides = [...track.querySelectorAll('.carousel-slide')];
     if (slides.length <= 1) return;
+    const autoplayEnabled = carousel.getAttribute('data-carousel-autoplay') !== 'false';
     const prevButton = carousel.querySelector('[data-carousel-control="prev"]');
     const nextButton = carousel.querySelector('[data-carousel-control="next"]');
     const dots = [...carousel.querySelectorAll('[data-carousel-to]')];
@@ -100,7 +101,7 @@
     };
 
     const startAutoplay = () => {
-      if (prefersReducedMotion) return;
+      if (prefersReducedMotion || !autoplayEnabled) return;
       clearAutoplay();
       autoplayTimer = window.setInterval(() => {
         sync(activeIndex + 1);
@@ -143,4 +144,11 @@
   }
 
   document.querySelectorAll('[data-year]').forEach((node) => { node.textContent = new Date().getFullYear(); });
+  const testimonialsSection = document.getElementById('testimonials');
+  if (testimonialsSection) {
+    const title = testimonialsSection.querySelector('.section-title');
+    const intro = testimonialsSection.querySelector('.section-intro');
+    if (title) title.textContent = 'Testimonials from our community';
+    if (intro) intro.textContent = 'Slide and press play.';
+  }
 })();
