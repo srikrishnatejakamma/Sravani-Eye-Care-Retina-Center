@@ -1,0 +1,215 @@
+Expanded Website Sitemap & Design Strategy
+• Typography Suggestion: Inter or Poppins (Modern, clean, and easy for visually impaired patients to read).
+• Color Palette: Clean Medical Blue (#0056B3), Retina Teal (#00A896), and soft off-white background backgrounds for readability.
+• Accessibility Feature: Include a font-size toggle (+ / -) in the top header for elderly patients.
+📄 Production-Ready Web Copy
+🏠 Page 1: Home Page
+[Top Notification Bar]
+💡 Emergency or urgent retinal flashers/floaters? Walk-ins are given high priority. Call +91 81430 62562 immediately.
+[Navigation Bar]
+• Logo Placeholder: [Sravani Eye Care & Retina Center Logo]
+• Links: Home | About Us | Vitreoretinal Services | General Ophthalmology | Pediatric Eye Care | Contact
+• Button: [📅 Book Appointment / Request a Token]
+[Hero Section]
+• Main Headline: Your Vision is Our Mission. Advanced Retina & General Eye Care in Chilakaluripet.
+• Supporting Copy: Don't let diabetes, cataracts, or aging dim your sight. Experience high-precision diagnostic and surgical interventions under Dr. P. Koteswararao (MBBS, MS, FVRS).
+• CTA Buttons:
+	• Primary (Solid Blue): [Schedule an Eye Exam]
+	• Secondary (Outline): [Get Driving Directions to N.R.T Centre]
+[Value Proposition / Trust Badges]
+(Grid of 4 items with distinct visual icons)
+• 👁️ Vitreoretinal Expert: Fellowship-trained retina surgeon specializing in advanced posterior segment surgeries.
+• 🔬 All-in-One Testing: In-house laboratory means no multiple visits or external delays for diagnostic scans.
+• 👶 Newborn Screenings: Vital Retinopathy of Prematurity (ROP) testing to secure your child’s visual development early.
+• 📍 Central Location: Easily accessible right next to the historic old Chowdaraiah Gari School at N.R.T Centre.
+[Quick-Action Appointment Form Block]
+Secure Your Appointment Token
+Fill out this quick form, and our front-desk coordinator will call you back within 1 hour to finalize your time slot.
+• [Full Name] | [Mobile Number] | [Select Service: Retina Checkup / Cataract / Routine Eye Exam / Pediatric Checkup]
+• Button: [Request Call Back 📞]
+ℹ️ Page 2: About Us Page
+[Core Philosophy]
+• Headline: World-Class Eye Care Built on Local Trust.
+• Body Copy: Sravani Eye Care & Retina Center was founded to bridge the gap between rural healthcare access and cutting-edge ophthalmic specialty care. We understand that vision issues cause immense anxiety. That is why our facility combines specialized surgical mastery with clear, direct patient education, ensuring you understand every step of your diagnosis.
+[Detailed Doctor Profile]
+Dr. P. Koteswararao
+MBBS, MS (Ophthalmology), FVRS (Fellowship in Vitreoretinal Surgery)
+Chief Consultant Ophthalmic & Vitreoretinal Surgeon
+Dr. P. Koteswararao is a distinguished medical professional dedicated to saving sight. Following his master’s degree in ophthalmology, he pursued an intensive, highly competitive Fellowship in Vitreoretinal Surgery (FVRS).
+He specializes heavily in managing delicate, high-stakes ocular situations inside the back of the eye (retina and vitreous body). Known for his empathetic patient communication, Dr. Koteswararao has successfully treated thousands of patients facing vision loss from complicated diabetic complications, retinal holes, and congenital infant eye issues.
+🔬 Page 3: Specialized Services (Comprehensive Sub-Pages)
+Developer Note: Split this section into 3 deep columns or dedicated landing pages.
+Section A: Advanced Vitreoretinal Care (The Center's Core)
+• Diabetic Retinopathy Management: High blood sugar damages small retinal blood vessels. We perform high-contrast fundus mapping to catch leaks early and deliver protective anti-VEGF injections or retinal laser therapy.
+• Retinal Detachment Surgery: A true medical emergency where the retina peels away from its baseline layer. Dr. Koteswararao performs microscopic, high-precision structural repairs to reposition the retina and preserve vision.
+• Flashing Lights & Floating Spots Evaluation: Sudden black spots or lines in your vision can indicate a tear. We run urgent scans to seal tears before they turn into full detachments.
+Section B: General Ophthalmology & Advanced Surgeries
+• Micro-Incision Cataract Surgery (MICS): We replace cloudy natural lenses through a self-healing micro-incision. Patients experience minimal discomfort, no stitches, and rapid visual recovery with a selection of premium intraocular lenses (IOLs).
+• Glaucoma Tracking & Prevention: Often called the "silent thief of sight" due to lack of early pain. We check intraocular pressures and track optic nerve health to manage conditions before permanent damage occurs.
+Section C: Pediatric & Newborn Vision Care
+• Retinopathy of Prematurity (ROP) Screening: Essential for babies born early (under 32 weeks) or with low birth weight. Abnormal blood vessels can scar the retina; our gentle screening ensures early interventions.
+• Squint & Amblyopia (Lazy Eye): Corrective therapies, prescription lenses, or minor muscular adjustments to ensure normal, balanced vision growth in growing children.
+📋 Page 4: Patient Guide & FAQ Block
+[What to Expect: Your First Visit Checklist]
+1. Bring Current Eyeglasses & Reports: Always bring your existing prescription cards, ongoing diabetic medical summaries, and a list of current medications.
+2. The Dilation Notice: Most comprehensive eye or retina evaluations require eye drops that dilate your pupils.
+	• It takes 20 to 30 minutes for the drops to work.
+	• Your vision will remain blurry and sensitive to sunlight for 3 to 5 hours afterward.
+	• Crucial Safety Rule: Please bring a family member or friend to drive you home. Avoid driving a car or motorbike by yourself post-dilation.
+[Expanded FAQs]
+• Do you perform surgeries on-site?
+	• Yes. Sravani Eye Care houses advanced surgical equipment configured for both anterior (cataract) and posterior (retinal) micro-surgeries.
+• What are your accepted payment methods?
+	• We accept Cash, UPI (Google Pay, PhonePe, Paytm), and major Debit/Credit cards.
+• How long does a full retina exam take?
+	• Expect to spend around 1.5 to 2 hours at the clinic, which includes waiting for pupil dilation and detailed diagnostic imaging.
+📞 Page 5: Contact & Location Blueprint
+[Visual Contact Layout Template]
+Field	Clinic Details
+🏥 Center Name	Sravani Eye Care & Retina Center
+📍 Complete Address	Door No: 5-423, N.R.T Centre, Beside Old Chowdaraiah Gari School, Chilakaluripet, Palnadu District, Andhra Pradesh - 522616
+📞 Primary Appointment Line	+91 81430 62562
+⏰ Consultation Hours	Monday through Saturday: 9:00 AM – 8:00 PM 
+ Sunday: Closed
+📱 Digital Community	Instagram Profile Link
+[Directions & Travel Guide for Web Layout]
+• By Local Transit: Ask any local auto-rickshaw driver to drop you off at the N.R.T Centre junction. The clinic sits directly adjacent to the well-known Old Chowdaraiah Gari School compound.
+• Coming from Guntur / Pasumarru: Drive down the National Highway (NH16) straight into Chilakaluripet, turning towards the central town commercial hub at N.R.T Centre.
+🛠️ SEO Optimization Meta Tags (For Your Developer)
+Ensure your developer copies these explicit values into the backend source code code of your new website to rank high on Google search results:
+• Meta Title: Sravani Eye Care & Retina Center | Dr. P. Koteswararao | Chilakaluripet
+• Meta Description: Visit Sravani Eye Care & Retina Center at N.R.T Centre, Chilakaluripet. Expert retina surgery, diabetic eye care, and cataract treatments by Dr. P. Koteswararao (MBBS, MS, FVRS). Call +91 81430 62562.
+• Alt Tags for Images: Dr Koteswararao Retina Specialist Chilakaluripet, Sravani Eye Clinic NRT Center building, Retina diagnostic testing machine Sravani hospital.
+
+
+To take your website content to an absolute production-ready level, here is the additional advanced structural data, functional copy, and code blocks your web developer will need to implement a fully functional, high-ranking medical website.
+1. Technical SEO & Local Schema Markup
+Copy and paste this exact structured code snippet. Your developer will insert this into the HTML <head> section of your homepage. It forces search engines to rank your clinic correctly in local search results when patients type "eye hospital near me":
+html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalOrganization",
+  "name": "Sravani Eye Care & Retina Center",
+  "alternateName": "Sravani Eye Clinic Chilakaluripet",
+  "description": "Specialized ophthalmic hospital providing advanced Vitreoretinal surgery, Diabetic Retinopathy management, cataract micro-surgeries, and pediatric eye screenings under Dr. P. Koteswararao.",
+  "url": "https://sravanieyecare.com",
+  "logo": "https://sravanieyecare.com/images/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-81430-62562",
+    "contactType": "customer service",
+    "areaServed": "IN",
+    "availableLanguage": ["en", "te"]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Door No: 5-423, N.R.T Centre, Beside Old Chowdaraiah Gari School",
+    "addressLocality": "Chilakaluripet",
+    "addressRegion": "Andhra Pradesh",
+    "postalCode": "522616",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "16.1000", 
+    "longitude": "80.1667"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "20:00"
+  },
+  "sameAs": [
+    "https://www.instagram.com/sravanieyecare/",
+    "https://www.facebook.com/p/Sravani-Eye-Care-Retina-Center-61590438663763/"
+  ]
+}
+</script>
+Use code with caution.
+2. Deep-Dive Medical Symptom Checker (Home Page Feature)
+Design Tip: A clean 3-tab layout section on the homepage where users click their symptoms to see the corresponding department.
+• Tab 1: "Are you diabetic?"
+	• Symptom list: Blurry zones in central vision, dark floating spots (floaters), fluctuating vision quality.
+	• Action advice: You need a dilated retinal evaluation immediately. Persistent high blood sugar weakens retinal blood vessels, causing micro-aneurysms. Early laser/injection therapy halts sudden vision loss.
+• Tab 2: "Is your vision getting cloudy?"
+	• Symptom list: Faded color perception, glare or halos around streetlights at night, feeling like looking through a foggy window.
+	• Action advice: These are textbook indicators of age-related cataracts. We specialize in stitchless, painless Micro-Incision Cataract Surgery (MICS) with premium lens implants.
+• Tab 3: "Are you a parent of a newborn?"
+	• Symptom list: Infant with unequal tracking, persistent watering eyes, white glare in the pupil, or born prematurely (under 32 weeks).
+	• Action advice: Schedule an immediate Retinopathy of Prematurity (ROP) evaluation. Early structural screening saves infant eyesight before permanent developmental complications arise.
+3. Interactive Treatment Timeline Blocks
+Use this content block for your dedicated Services or Patient Guide pages to clearly explain pre-and-post operative expectations.
+[ PHASE 1: PRE-EXAM ]
+• Do not wear contact lenses 24 hours prior to a comprehensive exam.
+• Carry all existing prescriptions and medical records regarding diabetes/hypertension.
+
+[ PHASE 2: AT THE CLINIC ]
+• Computerized vision check and internal eye pressure testing.
+• Dilating drops will be applied (requires a 20-30 minute wait time).
+• Comprehensive bio-microscopic retinal imaging inside our advanced testing suite.
+
+[ PHASE 3: POST-EXAM SAFETY ]
+• Dilation leaves pupils expanded for 3-5 hours. 
+• Wear sunglasses outdoors immediately following your appointment.
+• DO NOT drive motorbikes or cars alone. Ensure an accompanying relative is present.
+4. Advanced WhatsApp Automation Setup
+Instruct your developer to hook up a floating WhatsApp floating icon on the bottom right corner of all pages. Use this exact URL structure to ensure the patient message populates automatically when clicked:
+https://wa.me.
+5. Multi-Language (Telugu-English) Navigation Mapping
+Since many local patients prefer searching in their native language, make sure your developer links these internal keywords to the respective pages:
+• Retina Operative Care: రెటినా మరియు నిపుణుల చికిత్స (Retina & Specialty Care)
+• Cataract Surgeries: శుక్లాల నివారణ ఆపరేషన్ (Cataract Treatment)
+• Infant Screenings: నవజాత శిశువుల కంటి పరీక్షలు (Newborn Eye Evaluations)
+• 
+Facebook·Sravani Eye Care & Retina Center
+Sravani Eye Care & Retina Center | Chilakaluripet - Facebook
+28 Aug 2026 — Regular eye examinations help identify congenital cataracts, blocked tear ducts, Retinopathy of Prematurity (ROP) in premature bab...
+
+[Additional Homepage Sections]
+
+World-Class Facilities
+Modern eye care resources and support for patients at each step.
+
+Advanced Operating Theaters
+Specialist surgical care supported by modern ophthalmic technology. Your doctor will discuss the procedure and where it will take place.
+
+Diagnostic Center
+Eye examinations and diagnostic imaging help your doctor assess your vision and eye health.
+
+Recovery and Follow-up
+Practical post-treatment guidance and follow-up visits to review healing and answer questions.
+
+Urgent Eye Care
+Sudden flashes, many new floaters or a shadow across vision need prompt assessment. Call the clinic for guidance during clinic hours.
+
+Why Choose Sravani Eye Hospital?
+- Modern diagnostic equipment supports careful eye examinations and early assessment of eye conditions.
+- Dr. P. Koteswararao brings specialist ophthalmology and vitreoretinal training.
+- Modern ophthalmic technology supports carefully planned treatment.
+- Eye care for routine checkups, retinal conditions, cataracts and children's vision.
+- Clear conversations and care plans shaped around each patient.
+- Follow-up guidance to support recovery after treatment.
+
+Additional Benefits
+- Quality Care: Considerate eye care with clear explanations.
+- Clear Treatment Planning: Discuss suitable care options and costs with your doctor.
+- Follow-up Care: Guidance and reviews after treatment.
+- Outcome-focused Care: Treatment decisions guided by individual needs.
+
+Our Achievements
+Recognition and milestones that reflect our commitment to excellence:
+- Modern Technology & Equipment
+- Expert Medical Care
+- Patient-Centered Approach
+- Advanced Diagnostic Services
+- Comprehensive Eye Care
+- Patient Satisfaction Is Our Priority
